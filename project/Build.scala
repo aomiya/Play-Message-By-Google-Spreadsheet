@@ -1,10 +1,8 @@
-// import sbt.ScriptedPlugin._
 import sbt._
 import Keys._
 import play._
 import scala.io.Source
 import java.io.PrintWriter
-// import PlayProject._
 import java.io.File
 import java.io.IOException
 import scala.collection._
